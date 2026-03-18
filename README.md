@@ -1,28 +1,15 @@
 Hi, I'm Maxime 👋
 
-Full stack developer Passionate about creating useful objects
+Full stack developer passionate about creating useful projects and constantly learn new programming languages
 
-I enjoy working on web applications.
+I enjoy working on web applications and on Java projects.
 
 🚀 Featured Projects
-  - Maquette Html/Css —— Reproduce a model with precise specifications.
-  - Script Fighter —— Video game created in two days during a Game Jam
-  - Bataille Navale —— Naval Battle in PHP using a database 
+  - [Emerald Valley](https://github.com/MaximePetit03/FarmingGame-Java)  —— clicker farm game application in Java and JavaFX
+  - [Script Fighter](https://github.com/MaximePetit03/GameJam) —— Video game created in two days during a Game Jamin Javascript
+  - [Naval battle](https://github.com/MaximePetit03/BatailleProjet) —— Naval Battle in PHP 8 using MySQL without Javascript
+  - [Emerald Valley]([https://github.com/MaximePetit03/FarmingGame-Java](https://github.com/MaximePetit03/Battle-royale-Javascript)) —— A JavaScript-based battle royale game where you can play online with people on the same server address.
 
 🛠️ Tech Stack
 
-JS, HTML/CSS, PHP, SQL, C, JavaScript
-<!--
-**MaximePetit03/MaximePetit03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML5/CSS3, PHP 8, MySQL, C, JavaScript, Java 25, TypeScript
