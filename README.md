@@ -12,4 +12,4 @@ I enjoy working on web applications and on Java projects.
 
 🛠️ Tech Stack
 
-HTML5/CSS3, PHP 8, SQL, C, JavaScript, Java 21, TypeScript, Python
+HTML5/CSS3, PHP 8, SQL, MySql, C, JavaScript, Java 21, TypeScript, Python, Bash
